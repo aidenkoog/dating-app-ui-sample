@@ -6,7 +6,7 @@
 This project is to make template code that can be applied to any app development.
 
 - Language: Javascript
-- Source Directory Hierarchy Summary
+- Source directory hierarchy summary
     - ✨ assets
         - images
         - lotties
